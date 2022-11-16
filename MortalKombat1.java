@@ -8,14 +8,6 @@ import javax.imageio.*;
 import java.awt.MouseInfo;
 import java.awt.Font.*;
 
-/*********************************************************
-*  Name: Connor, Chris, Olivia, Mia                      *
-*  Course: ICS 4U  Pd. 8                                 *
-*  Summative                                             *
-*  Purpose: Create Mortal Kombat game                    *
-*  Due Date: May 27, 2019                                *
-*********************************************************/
-
 public class MortalKombat1 implements KeyListener
 {
    int character1 = 2,character2 = (int)(5 * Math.random() + 1);
